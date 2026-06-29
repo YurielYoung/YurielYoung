@@ -1,12 +1,8 @@
-# ╔══════════════════════════════════════╗
-#   Hi there, I'm YurielYoung ฅ(• ɪ •)ฅ
-# ╚══════════════════════════════════════╝
-
-!---HEADER--- -->
+# Hi there, I'm YurielYoung ฅ(• ɪ •)ฅ
 
 ## 🐾 Welcome to my little corner of GitHub!
 
-> (ﾉ´ヮ`)ﾉ*: ・゚✧ 
+> (ﾉ´ヮ`)ﾉ*: ・゚✧  
 > A game server developer who writes code with cats on the lap and dogs by the feet.
 
 ---
@@ -54,25 +50,22 @@
 ### 🐎 Cute Corner — 赛马娘 ASCII Art
 
 <div align="center">
-
-<table><tr>
-<td align="center" valign="bottom">
-<img src="teio_color.png" height="370"><br>東海帝皇
-</td>
-<td align="center" valign="bottom">
-<img src="silencesuzuka_color.png" height="370"><br>無聲鈴鹿
-</td>
-<td align="center" valign="bottom">
-<img src="specialweek_color.png" height="370"><br>特別週
-</td>
-<td align="center" valign="bottom">
-<img src="tannhauser_color.png" height="370"><br>待兼詩歌劇
-</td>
-<td align="center" valign="bottom">
-<img src="goldship_color.png" height="370"><br>黃金船
-</td>
-</tr></table>
-
+<table>
+<tr>
+<td align="center" valign="bottom"><img src="teio_color.png" height="350"></td>
+<td align="center" valign="bottom"><img src="silencesuzuka_color.png" height="350"></td>
+<td align="center" valign="bottom"><img src="specialweek_color.png" height="350"></td>
+<td align="center" valign="bottom"><img src="tannhauser_color.png" height="350"></td>
+<td align="center" valign="bottom"><img src="goldship_color.png" height="350"></td>
+</tr>
+<tr>
+<td align="center">東海帝皇</td>
+<td align="center">無聲鈴鹿</td>
+<td align="center">特別週</td>
+<td align="center">待兼詩歌劇</td>
+<td align="center">黃金船</td>
+</tr>
+</table>
 </div>
 
 ---
